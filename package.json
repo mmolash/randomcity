@@ -1,0 +1,23 @@
+{
+  "name": "randomCity",
+  "version": "0.0.0",
+  "description": "finds a random city in the world with >15,000 people",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mmolash/randomcity"
+  },
+  "author": "Michael Molash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmolash/randomcity/issues"
+  },
+  "homepage": "https://github.com/mmolash/randomcity",
+  "dependencies": {
+    "node-static": "^0.7.3"
+  }
+}
