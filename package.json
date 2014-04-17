@@ -19,4 +19,5 @@
   "homepage": "https://github.com/mmolash/randomcity",
   "dependencies": {
     "node-static": "^0.7.3"
+  }
 }
